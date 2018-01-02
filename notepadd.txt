@@ -6,4 +6,5 @@ modifying in localGit branch
 
 editing to check the conflicts between the branches
 
+editing in localGit branch
 
