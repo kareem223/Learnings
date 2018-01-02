@@ -4,3 +4,6 @@ modifying to check the git log
 
 modifying in localGit branch
 
+editing to check the conflicts between the branches
+
+
